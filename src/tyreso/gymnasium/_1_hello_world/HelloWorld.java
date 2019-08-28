@@ -10,15 +10,7 @@ package tyreso.gymnasium._1_hello_world;
  * @since 1.0
  */
 public class HelloWorld {
-
-    /**
-     * This is the main()-method. Any class containing a main()-method declared
-     * "public static void main(String[] args){}" will make the class it's in runnable.
-     *
-     * You may have several runnable classes in the same project or package.
-     *
-     * @param args
-     */
+    
     public static void main(String[] args) {
 
         /**
